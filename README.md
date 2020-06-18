@@ -1,1 +1,1 @@
-simple-neural-network
+A simple, single-layer, neural network.
