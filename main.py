@@ -1,6 +1,3 @@
-# a simple neural network
-# created by alex mounsey
-
 # import modules
 import numpy as np
 
